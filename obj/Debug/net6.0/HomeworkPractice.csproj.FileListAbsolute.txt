@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/HomeworkPractice.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/HomeworkPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/HomeworkPractice.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/HomeworkPractice.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/HomeworkPractice.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/HomeworkPractice/bin/Debug/net6.0/HomeworkPractice
+/Users/safiyevelnur/Desktop/HomeworkPractice/bin/Debug/net6.0/HomeworkPractice.deps.json
+/Users/safiyevelnur/Desktop/HomeworkPractice/bin/Debug/net6.0/HomeworkPractice.runtimeconfig.json
+/Users/safiyevelnur/Desktop/HomeworkPractice/bin/Debug/net6.0/HomeworkPractice.dll
+/Users/safiyevelnur/Desktop/HomeworkPractice/bin/Debug/net6.0/HomeworkPractice.pdb
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/HomeworkPractice.dll
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/refint/HomeworkPractice.dll
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/HomeworkPractice.pdb
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/HomeworkPractice.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/HomeworkPractice/obj/Debug/net6.0/ref/HomeworkPractice.dll
